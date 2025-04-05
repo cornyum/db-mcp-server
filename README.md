@@ -200,6 +200,7 @@ Connect your client to `http://localhost:9092/sse` for the event stream.
 
 ### Docker Compose
 
+
 For development environments with database containers:
 
 ```yaml

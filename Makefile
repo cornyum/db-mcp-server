@@ -2,8 +2,8 @@
 
 # Build the server
 build:
-	go build -o server cmd/server/main.go
-	GOOS=linux GOARCH=amd64 go build -o server-linux cmd/server/main.go
+	go build -o bin/server cmd/server/main.go
+	GOOS=linux GOARCH=amd64 go build -o bin/server-linux cmd/server/main.go
 
 # Build the example stdio server
 build-example:
