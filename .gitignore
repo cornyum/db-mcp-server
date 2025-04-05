@@ -5,3 +5,5 @@ bin/
 .vscode/
 .DS_Store
 config.json
+*_prod.json
+*_dev.json
