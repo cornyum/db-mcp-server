@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	intLogger "github.com/FreePeak/db-mcp-server/internal/logger"
+	intLogger "github.com/cornyum/db-mcp-server/internal/logger"
 	"gopkg.in/natefinch/lumberjack.v2"
 )
 

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/FreePeak/db-mcp-server/pkg/db"
-	"github.com/FreePeak/db-mcp-server/pkg/logger"
-	"github.com/FreePeak/db-mcp-server/pkg/tools"
+	"github.com/cornyum/db-mcp-server/pkg/db"
+	"github.com/cornyum/db-mcp-server/pkg/logger"
+	"github.com/cornyum/db-mcp-server/pkg/tools"
 )
 
 // createSchemaExplorerTool creates a tool for exploring database schema

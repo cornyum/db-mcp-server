@@ -17,13 +17,13 @@ import (
 
 	"github.com/FreePeak/cortex/pkg/server"
 
-	"github.com/FreePeak/db-mcp-server/internal/config"
-	"github.com/FreePeak/db-mcp-server/internal/delivery/mcp"
-	"github.com/FreePeak/db-mcp-server/internal/logger"
-	"github.com/FreePeak/db-mcp-server/internal/repository"
-	"github.com/FreePeak/db-mcp-server/internal/usecase"
-	"github.com/FreePeak/db-mcp-server/pkg/dbtools"
-	pkgLogger "github.com/FreePeak/db-mcp-server/pkg/logger"
+	"github.com/cornyum/db-mcp-server/internal/config"
+	"github.com/cornyum/db-mcp-server/internal/delivery/mcp"
+	"github.com/cornyum/db-mcp-server/internal/logger"
+	"github.com/cornyum/db-mcp-server/internal/repository"
+	"github.com/cornyum/db-mcp-server/internal/usecase"
+	"github.com/cornyum/db-mcp-server/pkg/dbtools"
+	pkgLogger "github.com/cornyum/db-mcp-server/pkg/logger"
 )
 
 // findConfigFile attempts to find config.json in the current directory or parent directories

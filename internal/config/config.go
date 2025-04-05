@@ -9,8 +9,8 @@ import (
 
 	"github.com/joho/godotenv"
 
-	"github.com/FreePeak/db-mcp-server/internal/logger"
-	"github.com/FreePeak/db-mcp-server/pkg/db"
+	"github.com/cornyum/db-mcp-server/internal/logger"
+	"github.com/cornyum/db-mcp-server/pkg/db"
 )
 
 // Config holds all server configuration

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/FreePeak/db-mcp-server/pkg/logger"
+	"github.com/cornyum/db-mcp-server/pkg/logger"
 	// Import database drivers
 	_ "github.com/go-sql-driver/mysql"
 	_ "github.com/lib/pq"

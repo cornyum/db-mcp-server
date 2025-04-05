@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/FreePeak/db-mcp-server/pkg/logger"
+	"github.com/cornyum/db-mcp-server/pkg/logger"
 )
 
 // QueryMetrics stores performance metrics for a database query

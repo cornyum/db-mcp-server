@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/FreePeak/db-mcp-server/pkg/logger"
+	"github.com/cornyum/db-mcp-server/pkg/logger"
 )
 
 // DatabaseConnectionConfig represents a single database connection configuration

@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/FreePeak/db-mcp-server/pkg/logger"
-	"github.com/FreePeak/db-mcp-server/pkg/tools"
+	"github.com/cornyum/db-mcp-server/pkg/logger"
+	"github.com/cornyum/db-mcp-server/pkg/tools"
 )
 
 // createQueryTool creates a tool for executing database queries

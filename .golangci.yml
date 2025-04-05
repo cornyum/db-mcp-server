@@ -21,7 +21,7 @@ linters-settings:
   gofmt:
     simplify: true
   goimports:
-    local-prefixes: github.com/FreePeak/db-mcp-server
+    local-prefixes: github.com/cornyum/db-mcp-server
   govet:
   revive:
     rules:
